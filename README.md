@@ -1,16 +1,16 @@
 # test_app_assignment
 
-A new Flutter project.
+## I added following features in this app.
+### Showing the latest movie list
+### Showing the individual movie details
+### Add search feature to search the movie to see details and watch the movie trailer
 
-## Getting Started
+## I used the following pub packages
 
-This project is a starting point for a Flutter application.
+### get: => i used this library as state management and for routing management
 
-A few resources to get you started if this is your first Flutter project:
+### dio: => i used this library to fetch the movies data from `themoviedb` third party website.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### intl: => i used this for DateTime formatting
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### youtube_player_flutter: => finally i used this package to show the movie trailer.
